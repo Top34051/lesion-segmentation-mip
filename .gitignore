@@ -1,0 +1,10 @@
+*.nii.gz
+*.pkl
+*.npy
+*.pth
+*.txt
+nnUNet_outputs/
+nnUNet_preprocessed/
+nnUNet_raw/
+nnUNet_results/
+fold_all/
