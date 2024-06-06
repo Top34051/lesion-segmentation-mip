@@ -8,3 +8,6 @@ nnUNet_preprocessed/
 nnUNet_raw/
 nnUNet_results/
 fold_all/
+data/
+outputs/
+.DS_Store
