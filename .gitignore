@@ -10,4 +10,5 @@ nnUNet_results/
 fold_all/
 data/
 outputs/
+output/
 .DS_Store
